@@ -1,5 +1,5 @@
 Classic login site, using invalid credentials gives us alert.  
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 After inspecting the site and checking `index.js`, we can see this code:
 
