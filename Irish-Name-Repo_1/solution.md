@@ -1,11 +1,11 @@
 
 The page we have to exploit is just a static site with photos of Irish people.  
 
-![alt text](imgs/image.png)
+![alt text](imgs/image1.png)
 
 Menu in the top left, gives us a option for admin login.
 
-![alt text](image2.png)
+![alt text](imgs/image.png)
 
 
 This form seems like a possible sql injection.
